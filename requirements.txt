@@ -1,4 +1,3 @@
-os
 tensorflow
 keras
 matplotlib.pyplot
