@@ -1,0 +1,8 @@
+os
+tensorflow
+keras
+matplotlib.pyplot
+numpy==1.26.4
+streamlit
+pip
+scikit-learn==1.2.2
