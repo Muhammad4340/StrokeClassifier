@@ -4,5 +4,5 @@ keras
 matplotlib.pyplot
 numpy==1.26.4
 streamlit
-pip
+pip==24.2
 scikit-learn==1.2.2
