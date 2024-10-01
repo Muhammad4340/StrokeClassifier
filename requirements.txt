@@ -2,5 +2,4 @@ tensorflow
 keras
 numpy==1.26.4
 streamlit
-pip==24.2
-scikit-learn==1.2.2
+pip==23.3.1
