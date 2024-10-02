@@ -27,7 +27,7 @@ if uploaded_file is not None:
     with open(os.path.join('upload', uploaded_file.name), 'wb') as f:
         f.write(uploaded_file.getbuffer())
     
-    st.image(uploaded_file, width = 200)
+    st.image(uploaded_file, width = 1000)
 
     st.markdown(classify_images(uploaded_file))
 
