@@ -8,7 +8,7 @@ import numpy as np
 st.header('Klasifikasi Pencitraan Otak Penderita Stroke')
 stroke_names = ['hemorrhagic', 'ischemic']
 
-model = load_model('Stroke_Recog_Modelll.keras')
+model = load_model('Stroke_Recog_Modelll_Copy.keras')
 
 def classify_images(image_path):
     #model = tf.keras.models.load_model('Stroke_Recog_Model.h5')  # Load the model inside the function
